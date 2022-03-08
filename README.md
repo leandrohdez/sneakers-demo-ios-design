@@ -1,4 +1,4 @@
-# 💸 Sneakers (demo)
+# 👟 Sneakers (demo)
 
 Developed example inspired by the design [Nike App Design Concept](https://dribbble.com/shots/17356912-Nike-App-Design-Concept?utm_source=Clipboard_Shot&utm_campaign=sogaso&utm_content=Nike%20App%20Design%20Concept&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=sogaso&utm_content=Nike%20App%20Design%20Concept&utm_medium=Social_Share) by [Angel Villanueva](https://dribbble.com/sogaso) for Orizon: UI/UX Design Agency. I take this opportunity to congratulate Angel for the excellent work.
 
