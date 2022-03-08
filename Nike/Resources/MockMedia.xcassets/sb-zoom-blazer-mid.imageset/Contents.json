@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "sb-zoom-blazer-mid.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

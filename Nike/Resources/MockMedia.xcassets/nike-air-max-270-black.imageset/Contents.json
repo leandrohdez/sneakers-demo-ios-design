@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "nike-air-max-270-black.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
